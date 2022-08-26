@@ -1,0 +1,32 @@
+.heading{
+    font-size: 25px;
+    width:100%;
+    margin: 0px;
+}
+body{
+    background: url("background.jpg");
+    background-size: cover;
+    background-position: center;
+}
+#copyright_footer{
+    width: 100%;
+    font-size: 22px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: fixed;
+    background-color: blanchedalmond;
+    bottom: 0;
+    text-align: center;
+    font-weight: bold;
+    line-height:2;
+}
+canvas
+{
+    border: 2px solid rgb(66, 135, 245);
+    margin-top: 70px;
+    margin-bottom: 20px;
+    box-shadow: 20px 5px 25px whitesmoke;
+}
+.start{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
